@@ -26,23 +26,20 @@ I'm a solution-driven**Front-end Developer**, knowledge-hungry and client-orient
 #
 
 ### 🎨 Featuraed Projects
-
-<a align="left"  href="https://ketodelicious.vercel.app/" style="padding-right: 20px"><img  alt="HTML" width="400px"  src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/ketodelicious-1-lg.webp" /></a>
-<a align="left"  href="https://ketodelicious.vercel.app/"  style="padding-bottom: 20px"><img align="left" alt="HTML" width="400px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/portfolio-1-lg.webp" /></a>
+<a align="left"    href="https://ketodelicious.vercel.app/" ><img   style="padding-rigth: 20px" alt="KetoDelicious Screenshot" width="400px"  src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/ketodelicious-1-lg.webp" /></a>
+<a align="left"   href="https://ketodelicious.vercel.app/"   ><img   style="padding-rigth: 20px" alt="Portfolio Screenshot" width="400px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/portfolio-1-lg.webp" /></a>
 <br />
-<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious" style="padding-right: 20px"><img  alt="HTML" width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious&theme=dark" /></a>
-<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=portfolio"><img  alt="HTML"   width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=portfolio&theme=dark" /></a>
+<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious"><img  alt="KetoDelicious Stats" width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious&theme=dark" /></a>
+<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=portfolio"><img  alt="Portfolio Stats"   width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=portfolio&theme=dark" /></a>
 
----
+<br />
+
+<a align="left"    href="https://ketodelicious.vercel.app/" ><img   style="padding-rigth: 20px" alt="Charlies Screenshot" width="400px"  src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/charlies-1-lg.webp" /></a>
+<a align="left"   href="https://ketodelicious.vercel.app/"   ><img   style="padding-rigth: 20px" alt="Gamespace Screenshot" width="400px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/gamespace-1-lg.webp" /></a>
+<br />
+<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=charlies"><img  alt="Charlies Stats" width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=charlies&theme=dark" /></a>
+<a align="left" href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=gamespace-project"><img  alt="Gamespace Stats"   width="400px"  src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=gamespace-project&theme=dark" /></a>
 
 
 
-
-<!-- <div style="padding-top:20px" />
-<a href="https://ketodelicious.vercel.app/"><img align="left" alt="HTML" width="300px" style="padding-right: 20px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/charlies-1-lg.webp" /></a>
-<a href="https://ketodelicious.vercel.app/"><img align="left" alt="HTML" width="300px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/gamespace-1-lg.webp" /></a>
-<div style="clear:both" />
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=charlies"><img align="left" alt="HTML" width="300px" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=charlies&theme=dark" /></a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=gamespace-project"><img align="left" alt="HTML" width="300px" style="padding-left:18px" src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=gamespace-project&theme=dark" /></a>
- -->
 
