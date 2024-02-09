@@ -20,8 +20,10 @@ I'm a solution-driven**Front-end Developer**, knowledge-hungry and client-orient
 <img align="left" alt="GitHub" width="42px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="42px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="SupaBase" width="42px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<br />
 
-
+<a href="https://ketodelicious.vercel.app/"><img align="left" alt="HTML" width="460px" style="padding-right:10px" src="https://jhlemuenelichgebawrp.supabase.co/storage/v1/object/public/project_screenshots/ketodelicious-1-lg.webp" /></a>
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious"><img alt="HTML" width="400px" style="margin-top:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=OliwierSellig&repo=ketodelicious" /></a>
 
 
 
