@@ -2,7 +2,7 @@
 
 **`Front-end Developer (React/Next.js)`**
 
-I'm a solution-driven**Front-end Developer**, knowledge-hungry and client-oriented, always striving to deliver exceptional results. A lifelong learner with a passion for creating, I find immense satisfaction in overcoming challenges and bringing ideas to life. My work is not just about coding; it's about crafting meaningful solutions that cater to the unique needs of clients and companies.
+I'm a solution-driven **Front-end Developer**, knowledge-hungry and client-oriented, always striving to deliver exceptional results. A lifelong learner with a passion for creating, I find immense satisfaction in overcoming challenges and bringing ideas to life. My work is not just about coding; it's about crafting meaningful solutions that cater to the unique needs of clients and companies.
 
 ---
 
